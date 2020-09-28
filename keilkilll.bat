@@ -20,3 +20,4 @@ del *.tra /s
 del *.dep /s           
 del JLinkLog.txt /s
 
+exit
