@@ -11,8 +11,6 @@ del *.omf /s
 del *.plg /s
 del *.rpt /s
 del *.tmp /s
-
-exit
-
-
+del *.__i /s
+del *.crf /s
 
