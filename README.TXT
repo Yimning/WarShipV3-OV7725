@@ -11,6 +11,9 @@
 	4,按键KEY0(PE4)/KEY1(PE3)/KEY2(PE2)/KEY_UP(PA0,也称之为WK_UP)
 	5,TPAD电容触摸按键(右下角LOGO,即TPAD,连接在PA1)
 	6,外部中断8(PA8,用于检测OV7670\OV7725的帧信号)
+	7,定时器6(用于打印摄像头帧率)
+	8,ALIENTEK OV7670摄像头模块,连接关系为:
+
 
 
 
