@@ -7,6 +7,9 @@
 硬件资源:
 	1,DS0(连接在PB5)
 	2,串口1(波特率:115200,PA9/PA10连接在板载USB转串口芯片CH340上面)
+	3,ALIENTEK 2.8/3.5/4.3/7寸TFTLCD模块(通过FSMC驱动,FSMC_NE4接LCD片选/A10接RS)
+	4,按键KEY0(PE4)/KEY1(PE3)/KEY2(PE2)/KEY_UP(PA0,也称之为WK_UP)
+
 
 	
 实验现象:
